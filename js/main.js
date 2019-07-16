@@ -16,3 +16,6 @@ function calcular(){
         
     }
 }
+function resetar(){
+    document.getElementById("status").src="./imagens/neutro.png";
+}
